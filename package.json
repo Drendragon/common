@@ -1,6 +1,6 @@
 {
   "name": "@drendragonprojekt/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -13,9 +13,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "^4.8.4"
   }
