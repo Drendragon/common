@@ -13,9 +13,12 @@ export * from "./middlewares/validate-request";
 export * from './events/listener';
 export * from './events/publisher';
 
-//Subjects
+//Types
 export * from './events/subjects';
+export * from './events/types/order-status'
 
 // Events
 export * from './events/ticket-created-event';
 export * from './events/ticket-updated-event';
+
+
